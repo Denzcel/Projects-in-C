@@ -1,0 +1,19 @@
+Create logical flow for a program that let the user input five numbers.  
+(These five numbers can be stored in an array.) The program output 
+should be the output of the average of these five numbers by reading 
+them out of the array and calculating the average and indicating the 
+highest number entered. Please use loops, arrays and conditional statements! 
+Please comment what you did and why.
+
+Pseudocode:
+1. Start Main function
+2. Create an array num for 5 elements -> num[5]
+3. Assign values to each array index num[5] to num[4]
+4. For loop to iterate through the values and add them
+5. Using IF Compare current number with new number and store highest
+6. Divide by the number of elements (5) giving average
+7. Print the output of the highest number and average
+
+// Used for loop to grab the five elements in order to find the average 
+and highest number, then continued to compare the numbers until the highest 
+number is met and store that value. 
